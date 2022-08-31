@@ -19,3 +19,7 @@ _☝ performs the auto-wiring (routing that could otherwise be done in 'routes.y
 > php bin/console debug:router
 
 _☝ this shows the paths available in the app_
+
+> symfony server:start
+
+_☝ this shows the paths available in the app_
